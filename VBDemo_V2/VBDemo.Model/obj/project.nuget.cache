@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JC1yqoC/rRk2V3Mu8vkMcwh6JGXNTdhAwxCqLmQaMAVztQIFvL9/fjFBXq9wa4W1SvYaiB6atdIG/5QGS4uGQ==",
+  "success": true,
+  "projectFilePath": "N:\\POSTGRAD\\PROJECTS\\VBDOTNET\\VBDOTNETDEMO\\VBDemo_V2\\VBDemo.Model\\VBDemo.Model.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camso\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\camso\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

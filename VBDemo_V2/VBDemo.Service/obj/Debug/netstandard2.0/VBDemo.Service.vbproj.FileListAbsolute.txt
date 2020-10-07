@@ -1,0 +1,6 @@
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.Service\bin\Debug\netstandard2.0\VBDemo.DAL.dll
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.Service\bin\Debug\netstandard2.0\VBDemo.Model.dll
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.Service\bin\Debug\netstandard2.0\VBDemo.Repository.dll
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.Service\bin\Debug\netstandard2.0\VBDemo.Types.dll
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.Service\obj\Debug\netstandard2.0\VBDemo.Service.AssemblyInfoInputs.cache
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.Service\obj\Debug\netstandard2.0\VBDemo.Service.AssemblyInfo.vb

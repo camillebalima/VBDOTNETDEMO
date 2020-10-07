@@ -1,0 +1,4 @@
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.DAL\bin\Debug\netstandard2.0\VBDemo.Types.dll
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.DAL\obj\Debug\netstandard2.0\VBDemo.DAL.vbprojAssemblyReference.cache
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.DAL\obj\Debug\netstandard2.0\VBDemo.DAL.AssemblyInfoInputs.cache
+N:\POSTGRAD\PROJECTS\VBDOTNET\VBDOTNETDEMO\VBDemo_V2\VBDemo.DAL\obj\Debug\netstandard2.0\VBDemo.DAL.AssemblyInfo.vb
